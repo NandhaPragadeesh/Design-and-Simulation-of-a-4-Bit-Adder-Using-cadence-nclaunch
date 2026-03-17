@@ -21,6 +21,7 @@ The aim is to design and simulate a **4-bit Adder** using **Verilog HDL** and ve
 - Implement a **ripple carry adder** using **four 1-bit full adders** to form a **4-bit Adder**.
 - Define input ports (**A[3:0], B[3:0], Cin**) and output ports (**Sum[3:0], Cout**).
 
+
 ### 2. Simulation Using Cadence nclaunch:
 - Open **nclaunch** and load the Verilog file.
 - Compile the design and check for **syntax errors**.
